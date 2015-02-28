@@ -1,0 +1,11 @@
+#mainPopup {
+    padding: 10px;
+    width: 220px;
+    font-family: Helvetica, Ubuntu, Arial, sans-serif;
+}
+h1 {
+    font-size: 2em;
+}
+*{
+    box-sizing: border-box;
+}
